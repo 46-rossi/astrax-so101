@@ -221,3 +221,49 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AstraX SO-101 - Project Files
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Recorded datasets
+data/
+datasets/
+recordings/
+
+# Training outputs
+outputs/
+checkpoints/
+runs/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Simulation files
+*.usd
+*.usda
+*.usdc
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Environment credentials
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
