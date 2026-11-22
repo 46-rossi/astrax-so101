@@ -1,0 +1,16 @@
+
+# AstraX SO-101
+# Dependencies for reconstructed reference scripts
+
+# Current scripts use Python standard-library modules only.
+# Python 3.10+ recommended.
+
+# Original hackathon technology stack:
+# NVIDIA Isaac Sim
+# NVIDIA Isaac Lab
+# Hugging Face LeRobot
+# PyTorch
+#
+# These are not installed through this file.
+# Their compatible versions depend on the
+# original NWaves environment.
